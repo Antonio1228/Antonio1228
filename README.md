@@ -4,6 +4,8 @@ I build small, practical apps and automation tools across mobile, web, AI-assist
 
 ## Featured Work
 
+- [Coffee Craft](https://github.com/Antonio1228/coffee-craft-app) - Expo React Native app for coffee recipes, guided brewing, tasting logs, and community recipes.
+- [Reality Hack](https://github.com/Antonio1228/reality-hack) - Expo AI mission-game prototype with Supabase Edge Functions.
 - [CS Homework Site](https://github.com/Antonio1228/cs-homework-site) - static study notes and worked examples for computer science topics.
 - [NEWS](https://github.com/Antonio1228/NEWS) - scripts and data structure for a lightweight news/article publishing workflow.
 - [FACE](https://github.com/Antonio1228/FACE) - face landmark and expression-matching experiments.
