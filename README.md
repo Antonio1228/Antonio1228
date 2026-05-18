@@ -1,20 +1,22 @@
 # Antonio1228
 
-I build small, practical apps and automation tools across mobile, web, AI-assisted workflows, and data-driven LINE bots.
+I build practical apps and automation systems across mobile, web, AI-assisted workflows, and data-driven LINE Bot backends.
 
-## Featured Work
+## Featured public work
 
-- [Coffee Craft](https://github.com/Antonio1228/coffee-craft-app) - Expo React Native app for coffee recipes, guided brewing, tasting logs, and community recipes.
-- [Reality Hack](https://github.com/Antonio1228/reality-hack) - Expo AI mission-game prototype with Supabase Edge Functions.
-- [CS Homework Site](https://github.com/Antonio1228/cs-homework-site) - static study notes and worked examples for computer science topics.
-- [NEWS](https://github.com/Antonio1228/NEWS) - scripts and data structure for a lightweight news/article publishing workflow.
-- [FACE](https://github.com/Antonio1228/FACE) - face landmark and expression-matching experiments.
-- [line_face](https://github.com/Antonio1228/line_face) - LINE Bot prototype for face/landmark workflows.
-- [clinic](https://github.com/Antonio1228/clinic) - PHP/MySQL clinic database course project.
+- [Coffee Craft](https://github.com/Antonio1228/coffee-craft-app) - Expo React Native coffee-learning app with guided timers, tasting logs, custom recipes, achievements, and optional Supabase community features.
+- [Reality Hack](https://github.com/Antonio1228/reality-hack) - AI-assisted mobile ARG prototype using Expo, Supabase Edge Functions, OpenAI, progressive permissions, and safety-first mission design.
+- [Project Management System](https://github.com/Antonio1228/pm) - compact Node.js/Express CRUD dashboard for project tracking, progress reports, and status summaries.
+- [CS Homework Site](https://github.com/Antonio1228/cs-homework-site) - static GitHub Pages study site with worked computer-science examples, metadata, sitemap, and publishing structure.
 
-## Current Focus
+## Private systems I can discuss
 
-- LINE Bot automation
-- AI-assisted content and analysis systems
-- Expo / React Native apps
-- Practical database-backed web tools
+- Taiwan stock LINE Bot backend with LIFF/web cards, FinMind data workflows, OpenAI-assisted content generation, scheduled broadcasts, and deployment runbooks.
+- Facebook parent-content automation toolkit with page-identity safety checks, tone guardrails, content contracts, and browser-workflow discipline.
+
+## Current focus
+
+- Expo / React Native product prototypes.
+- LINE Bot and LIFF systems.
+- AI-assisted content and analysis workflows.
+- Practical backend automation with clear operational guardrails.
