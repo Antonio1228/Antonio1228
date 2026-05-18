@@ -1,16 +1,18 @@
-## Hi there 👋
+# Antonio1228
 
-<!--
-**Antonio1228/Antonio1228** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build small, practical apps and automation tools across mobile, web, AI-assisted workflows, and data-driven LINE bots.
 
-Here are some ideas to get you started:
+## Featured Work
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [CS Homework Site](https://github.com/Antonio1228/cs-homework-site) - static study notes and worked examples for computer science topics.
+- [NEWS](https://github.com/Antonio1228/NEWS) - scripts and data structure for a lightweight news/article publishing workflow.
+- [FACE](https://github.com/Antonio1228/FACE) - face landmark and expression-matching experiments.
+- [line_face](https://github.com/Antonio1228/line_face) - LINE Bot prototype for face/landmark workflows.
+- [clinic](https://github.com/Antonio1228/clinic) - PHP/MySQL clinic database course project.
+
+## Current Focus
+
+- LINE Bot automation
+- AI-assisted content and analysis systems
+- Expo / React Native apps
+- Practical database-backed web tools
